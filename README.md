@@ -21,7 +21,3 @@ This repository contains course materials, notes, and projects from my first sem
 - Basic algorithmic problem solving with **Python**.
 - Physics experiments and laboratory reports.
 - Programming fundamentals and logic exercises.
-
----
-
-_Note: Large PDF books and heavy resources are excluded due to GitHub storage limits._
